@@ -1,5 +1,4 @@
-# Olimpiadas_2025
-# Web de Paquetes Turísticos
+# Olimpiadas 2025 Web de Paquetes Turísticos
 
 Este es un proyecto web desarrollado para una **Olimpíada Escolar**. El objetivo principal es permitir a los usuarios ver, buscar y comprar paquetes turísticos de manera simple y rápida.
 El proyecto fue realizado en equipo. Cada integrante del grupo cumplió un rol específico.
